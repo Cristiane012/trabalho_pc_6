@@ -1,0 +1,44 @@
+body {
+   background: #007fff
+}
+
+#titulo {
+   width: 100%;
+   height: 354px;
+}
+
+#plivro {
+   width: 100%;
+   height: 370px;
+}
+
+#baixados {
+   width: 100%;
+   height: 353px;
+}
+
+#tlivro {
+   width: 100%;
+   height: 370px;
+}
+
+#qlivro {
+   width: 100%;
+   height: 370px;
+}
+
+h1 {
+   text-align: center
+}
+
+p {
+   text-align: center;
+}
+
+#misao {
+	font-size: 20px
+}
+
+em strong {
+   color: blueviolet;
+}
